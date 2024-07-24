@@ -9,20 +9,20 @@ const questions=[{
 }
 ,
 {
-'que':'Which of the following is a  markup language?',
+'que':'Which is the object oriented programming language?',
 'a':'HTML',
 'b':'CSS',
-'c':'JavaScript',
+'c':'Java',
 'd':'PHP',
-'correct':'a'}
+'correct':'c'}
 ,
 {
-    'que':'Which of the following is a  markup language?',
-'a':'HTML',
-'b':'CSS',
-'c':'JavaScript',
+     'que':'What is the full form of css?',
+'a':'Hyper text',
+'b':'Cascading style sheets',
+'c':'javascript',
 'd':'PHP',
-'correct':'a'
+'correct':'b'
 }]
 let index=0;
 let total=questions.length;
